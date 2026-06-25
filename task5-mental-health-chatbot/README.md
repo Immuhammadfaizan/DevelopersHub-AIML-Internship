@@ -21,7 +21,7 @@ The chatbot utilizes a fine-tuned **DistilGPT2** model trained on the **Empathet
 task5-mental-health-chatbot/
 ├── app.py                      # Main Streamlit web application
 ├── mental_health_chatbot.ipynb # Jupyter notebook used for fine-tuning the model
-├── mental_health_chatbot/      # Directory containing fine-tuned model weights
+├── mental_health_chatbot/      # Directory containing fine tuned model weights
 ├── screenshots/                # Visual verification logs
 │   ├── I feel really anxious today.png
 │   └── I am stressed about work and cannot sleep.png
@@ -35,7 +35,7 @@ task5-mental-health-chatbot/
 ### 1. Clone & Navigate to Project Directory
 Ensure you are in the task directory:
 ```bash
-cd mental_health_chatbot_task5
+cd task5-mental-health-chatbot
 ```
 
 ### 2. Activate Python Virtual Environment
