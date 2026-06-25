@@ -18,7 +18,7 @@ The chatbot utilizes a fine-tuned **DistilGPT2** model trained on the **Empathet
 ## 🛠️ Project Structure
 
 ```text
-mental_health_chatbot_task5/
+task5-mental-health-chatbot/
 ├── app.py                      # Main Streamlit web application
 ├── mental_health_chatbot.ipynb # Jupyter notebook used for fine-tuning the model
 ├── mental_health_chatbot/      # Directory containing fine-tuned model weights
